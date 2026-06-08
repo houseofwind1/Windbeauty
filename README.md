@@ -1,0 +1,18 @@
+/
+├── index.html
+├── about.html
+├── products.html
+├── contact.html
+│
+├── assets/
+│   ├── images/
+│   ├── logo.png
+│   └── favicon.ico
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── README.md
